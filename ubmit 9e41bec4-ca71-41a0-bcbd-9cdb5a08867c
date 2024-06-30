@@ -1,0 +1,36 @@
+[33mcommit 4e503f1ff72b14e5c480d184735a1372c88a79d5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 7b9933c cb052d0
+Author: djd223 <davissond99@gmail.com>
+Date:   Sun Jun 30 08:34:21 2024 -0700
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 7b9933c9ad4263eda022ca1210b136ea93a5eddd[m
+Author: djd223 <davissond99@gmail.com>
+Date:   Sat Jun 29 16:30:17 2024 -0700
+
+    E: contents update
+
+[33mcommit cb052d04eb4d5cd11a41f1022cc631eff68d06de[m
+Author: djd223 <davissond99@gmail.com>
+Date:   Sat Jun 29 16:00:43 2024 -0700
+
+    D: add classics
+
+[33mcommit 7bff535e44bf6e73829883ad0a2132d944462e96[m
+Author: djd223 <davissond99@gmail.com>
+Date:   Sat Jun 29 13:25:39 2024 -0700
+
+    C: add quotes
+
+[33mcommit 1f2f914f50a5e03203a80a944671de2106f4113a[m
+Author: djd223 <davissond99@gmail.com>
+Date:   Sat Jun 29 13:18:58 2024 -0700
+
+    B: add titles
+
+[33mcommit 97a1c059f34028570f5f971545bd3e8eb56c54df[m
+Author: djd223 <davissond99@gmail.com>
+Date:   Sun Jun 30 01:13:19 2024 -0700
+
+    A: add contents.md
